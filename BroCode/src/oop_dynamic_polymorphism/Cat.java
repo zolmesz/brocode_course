@@ -1,4 +1,4 @@
-package oop_dinamic_polymorphism;
+package oop_dynamic_polymorphism;
 
 public class Cat extends Animal {
 
